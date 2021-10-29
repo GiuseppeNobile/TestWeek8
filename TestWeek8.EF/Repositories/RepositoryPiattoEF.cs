@@ -8,7 +8,7 @@ using TestWeek8.Core.Models;
 
 namespace TestWeek8.EF.Repositories
 {
-    class RepositoryPiattoEF : IRepositoryPiatto
+    public class RepositoryPiattoEF : IRepositoryPiatto
     {
         private readonly RistoranteContext ctx;
 
