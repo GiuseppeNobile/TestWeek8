@@ -135,14 +135,14 @@ namespace TestWeek8.EF
                     IdUtente = 1,
                     Email = "Giovanni.Storti@gmail.com",
                     Password = "pdor",
-                    Tipo = Core.Models.Type.Ristoratore
+                    Tipo = AccountType.Ristoratore
                 },
                 new Utente
                 {
                     IdUtente = 2,
                     Email = "Giacomino.Poretti@gmail.com",
                     Password = "tafazzi",
-                    Tipo = Core.Models.Type.Cliente
+                    Tipo = AccountType.Cliente
                 },
 
                 new Utente
@@ -150,7 +150,7 @@ namespace TestWeek8.EF
                     IdUtente = 3,
                     Email = "Aldo.Baglio@gmail.com",
                     Password = "rolando",
-                    Tipo = Core.Models.Type.Cliente
+                    Tipo = AccountType.Cliente
                 }
                 );
             #endregion

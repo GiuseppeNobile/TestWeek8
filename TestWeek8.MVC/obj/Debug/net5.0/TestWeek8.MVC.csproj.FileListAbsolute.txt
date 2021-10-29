@@ -69,3 +69,10 @@ C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.MVC\obj\Debug\net5.0\TestWeek
 C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.MVC\obj\Debug\net5.0\ref\TestWeek8.MVC.dll
 C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.MVC\obj\Debug\net5.0\TestWeek8.MVC.pdb
 C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.MVC\obj\Debug\net5.0\TestWeek8.MVC.genruntimeconfig.cache
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.MVC\obj\Debug\net5.0\Razor\Views\Menu\Index.cshtml.g.cs
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.MVC\obj\Debug\net5.0\Razor\Views\Menu\Create.cshtml.g.cs
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.MVC\obj\Debug\net5.0\Razor\Views\Menu\_Form.cshtml.g.cs
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.MVC\obj\Debug\net5.0\Razor\Views\Menu\Detail.cshtml.g.cs
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.MVC\obj\Debug\net5.0\Razor\Views\Menu\Edit.cshtml.g.cs
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.MVC\obj\Debug\net5.0\Razor\Views\Piatti\Index.cshtml.g.cs
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.MVC\obj\Debug\net5.0\Razor\Views\Utente\Login.cshtml.g.cs

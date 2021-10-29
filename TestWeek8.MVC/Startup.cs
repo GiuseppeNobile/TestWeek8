@@ -79,6 +79,7 @@ namespace TestWeek8.MVC
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {

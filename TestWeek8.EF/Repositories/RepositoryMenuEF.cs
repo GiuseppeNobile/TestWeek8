@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Microsoft.EntityFrameworkCore;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -57,7 +58,7 @@ namespace TestWeek8.EF.Repositories
             if (id <= 0)
                 return null;
 
-            return ctx.Menus.Find(id);
+            return ctx.Menus.Include(m => m.Piatti).FirstOrDefault(m => m.IdMenu == id);
         }
 
         public Menu GetByName(string nome)

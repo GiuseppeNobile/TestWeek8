@@ -1,0 +1,26 @@
+﻿@model IEnumerable<PiattoViewModel>
+
+<table class="table table-hover">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Nome</th>
+            <th scope="col">Descrizione</th>
+            <th scope="col">Tipologia</th>
+            <th scope="col">Prezzo</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.IdPiatto</td>
+                <td>@item.Nome</td>
+                <td>@item.Descrizione</td>
+                <td>@item.Tipologia</td>
+                <td>@item.Prezzo</td>
+
+            </tr>
+        }
+    </tbody>
+</table>

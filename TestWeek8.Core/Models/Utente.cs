@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TestWeek8.Core.Models
 {
-    public enum Type
+    public enum AccountType
     {
         Ristoratore,
         Cliente
@@ -16,7 +16,7 @@ namespace TestWeek8.Core.Models
         public int IdUtente { get; set; }
         public string Email { get; set; }
         public string Password { get; set; }
-        public Type Tipo { get; set; }
+        public AccountType Tipo { get; set; }
 
     }
 }
