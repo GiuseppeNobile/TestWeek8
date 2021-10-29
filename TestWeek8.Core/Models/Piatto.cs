@@ -20,5 +20,8 @@ namespace TestWeek8.Core.Models
         public string Descrizione { get; set; }
         public Typology Tipologia { get; set; }
         public decimal Prezzo { get; set; }
+
+        public int MenuID { get; set; }
+        public Menu menuAppartenenza { get; set; }
     }
 }
