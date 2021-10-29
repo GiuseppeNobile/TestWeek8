@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace TestWeek8.Core.Models
 {
-    class Menu
+    public class Menu
     {
+        public int IdMenu { get; set; }
+        public string Nome { get; set; }
+        public List<Piatto> Piatti { get; set; }
+
     }
 }

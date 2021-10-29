@@ -1,0 +1,12 @@
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.Core\bin\Debug\net5.0\TestWeek8.Core.deps.json
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.Core\bin\Debug\net5.0\TestWeek8.Core.dll
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.Core\bin\Debug\net5.0\ref\TestWeek8.Core.dll
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.Core\bin\Debug\net5.0\TestWeek8.Core.pdb
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.Core\obj\Debug\net5.0\TestWeek8.Core.csproj.AssemblyReference.cache
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.Core\obj\Debug\net5.0\TestWeek8.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.Core\obj\Debug\net5.0\TestWeek8.Core.AssemblyInfoInputs.cache
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.Core\obj\Debug\net5.0\TestWeek8.Core.AssemblyInfo.cs
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.Core\obj\Debug\net5.0\TestWeek8.Core.csproj.CoreCompileInputs.cache
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.Core\obj\Debug\net5.0\TestWeek8.Core.dll
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.Core\obj\Debug\net5.0\ref\TestWeek8.Core.dll
+C:\Users\g.nobile\source\repos\TestWeek8\TestWeek8.Core\obj\Debug\net5.0\TestWeek8.Core.pdb
